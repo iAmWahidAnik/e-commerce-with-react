@@ -1,0 +1,32 @@
+.product {
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+
+.product img {
+    width: 286px;
+    height: 286px;
+    margin: 7px;
+    border-radius: 8px;
+}
+.product-name{
+    font-size: 21px;
+    margin: 0;
+    padding: 0px 5px 0px 5px;
+}
+.product-price{
+    font-size: 17px;
+}
+.last-two, .last-one{
+    font-size: 12px;
+}
+.last-one{
+    margin-bottom: 45px;
+}
+.cart-btn{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
