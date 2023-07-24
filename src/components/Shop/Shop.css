@@ -1,14 +1,14 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
-    padding: 0px 0px 0px 60px;
+    padding: 0px 0px 0px 30px;
     /* gap: 20px; */
 }
 .products{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
-    margin: 120px 40px 120px 40px;
+    margin: 120px 40px 120px 0;
 }
 .cart{
     background-color: #1a1a1a;

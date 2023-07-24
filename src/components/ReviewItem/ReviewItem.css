@@ -1,0 +1,31 @@
+.review-item{
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    
+}
+.review-item img{
+    width: 91px;
+    height: 91px;
+    object-fit: cover;
+    padding: 8px;
+}
+.details-container{
+    margin: auto 10px;
+    flex-grow: 1;
+    text-align: left;
+}
+.product-title{
+    margin: 0;
+}
+.price{
+    margin: 0;
+}
+.quantity{
+    margin: 0;
+}
+.text-style{
+    color: coral;
+    font-weight: 700;
+}
